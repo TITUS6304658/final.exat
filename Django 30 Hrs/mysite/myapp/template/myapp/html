@@ -1,0 +1,39 @@
+<div style="margin: 0 10% 0 25%">
+
+    <div class="container">
+       <div class="row">
+         <div class="col-md-3"> <br>
+           
+         </div>
+         <div class="col-md-9"> <br />
+           
+           
+           
+               {% block body %}
+   
+               <table width="70%" border="1" align="center" cellpadding="0" cellspacing="0" class="table table-bordered table-hover">
+                <tr>
+              
+                  <th><strong>project</strong></th>
+                  <th><strong>ผลการดำเนินการ</strong></th>
+                  
+                  <th><strong>เเสดง</strong></th>
+                </tr>
+                {% for r in results %}
+                <tr>
+                  <td>{{r.project_no}}</td>
+                  >
+                  <td>
+                      <a href="../my_viewtitle/">               
+                          <button  type="submit"  style=" background-color: #849C53; color: white; font-size: 0.8rem;" class="btn  form-control-sm mt-2 offset-md-0">ดำเนินการ </button>
+                        </a> 
+                      
+                   
+                  </td>
+                  
+                  
+                {% endfor%}
+              </table>
+               
+       </div>
+</div>            

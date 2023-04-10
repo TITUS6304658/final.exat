@@ -1,0 +1,11 @@
+Model Information:
+* title:	Highway Bridge, Chinese style
+* source:	https://sketchfab.com/3d-models/highway-bridge-chinese-style-c2a8fa8acca840c782560ce32023e2e8
+* author:	samuel.brunner (https://sketchfab.com/samuel.brunner)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Highway Bridge, Chinese style" (https://sketchfab.com/3d-models/highway-bridge-chinese-style-c2a8fa8acca840c782560ce32023e2e8) by samuel.brunner (https://sketchfab.com/samuel.brunner) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
